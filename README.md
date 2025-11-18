@@ -1,5 +1,7 @@
 # 👋 Hey there!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=cout+%3C%3C+%22Hello+world%22%3B)](https://git.io/typing-svg)
+
 ### About me
 
 - I love sharing knowledge and exploring topics.
@@ -7,6 +9,8 @@
 - Building web and TUI applications is my passion.
 - Currently, I'm diving into backend engineering.
 - Solving algorithmic problems is another interest of mine.
+
+My blog[https://ashusevim.bearblog.dev/][Bearblog]
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
