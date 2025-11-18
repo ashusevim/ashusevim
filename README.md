@@ -1,11 +1,8 @@
-# 👋 Hey there!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=cout+%3C%3C+%22Hello+world%22%3B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3D&lines=cout+%3C%3C+%22Hey+everyone%F0%9F%91%8B%22;)](https://git.io/typing-svg)
 
 ### About me
 
-- I love sharing knowledge and exploring topics.
-- I enjoy deep diving into various subjects.
+- I love sharing knowledge, exploring various topics and deep dive into things.
 - Building web and TUI applications is my passion.
 - Currently, I'm diving into backend engineering.
 - Solving algorithmic problems is another interest of mine.
