@@ -1,11 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3D&lines=cout+%3C%3C+%22Hey+everyone%F0%9F%91%8B%22;)](https://git.io/typing-svg)
 
+[![wakatime](https://wakatime.com/badge/user/018d7861-65e4-43a2-9694-be710f9a2011.svg)](https://wakatime.com/@018d7861-65e4-43a2-9694-be710f9a2011)
+
 ### About me
 
 - I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
 - I build both web apps and TUI (terminal) apps.
 - Right now, I’m focused on backend engineering.
 - I also like solving algorithmic problems and sharpening my problem‑solving skills.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,ts,react,nodejs,express,postgres,mongodb,mysql,nextjs,postman,vscode,c,cpp,linux,git,docker,github,appwrite,supabase)](https://skillicons.dev)
+
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
