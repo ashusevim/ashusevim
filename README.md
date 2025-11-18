@@ -23,7 +23,8 @@
 
 <details>
 <summary><b>Life Mantra</b></summary>
-
+<br>
+	<quote>
 Quit brainrot. Unfollow trolls. Read essays. Go down rabbit holes.  
 Have a calendar. Maintain a todo list. Read old books. Watch old movies.  
 Turn on DND. Walk with intent. Eat without YouTube. Chew more.  
@@ -47,4 +48,5 @@ Invite what aligns. Accept what does not. Read great people.
 Be different. Choose different. Do great work. Let it consume you.  
 Lose your mind. Value your time. Experience life.
 
+</quote>
 </details>
