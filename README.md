@@ -7,8 +7,6 @@
 - Currently, I'm diving into backend engineering.
 - Solving algorithmic problems is another interest of mine.
 
-My blog[https://ashusevim.bearblog.dev/][Bearblog]
-
 <!--START_SECTION:waka-->
 
 ```txt
