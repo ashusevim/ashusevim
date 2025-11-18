@@ -1,3 +1,16 @@
+# 👋 Hey there!
+
+### About me
+
+- I love sharing knowledge and exploring topics.
+- I enjoy deep diving into various subjects.
+- Building web and TUI applications is my passion.
+- Currently, I'm diving into backend engineering.
+- Solving algorithmic problems is another interest of mine.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </td></tr>
 
 <tr><td>
