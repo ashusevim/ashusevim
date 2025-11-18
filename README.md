@@ -13,6 +13,15 @@
 My blog[https://ashusevim.bearblog.dev/][Bearblog]
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   5 hrs 45 mins   ███████████████▒░░░░░░░░░   61.66 %
+JavaScript   1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Markdown     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+JSON         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Bash         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+```
+
 <!--END_SECTION:waka-->
 
 </td></tr>
