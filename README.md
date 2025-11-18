@@ -13,7 +13,7 @@
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ashusevim&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashusevim&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
@@ -24,7 +24,7 @@
 <details>
 <summary><b>Life Mantra</b></summary>
 <br>
-	<quote>
+<quote>
 Quit brainrot. Unfollow trolls. Read essays. Go down rabbit holes.  
 Have a calendar. Maintain a todo list. Read old books. Watch old movies.  
 Turn on DND. Walk with intent. Eat without YouTube. Chew more.  
