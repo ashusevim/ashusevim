@@ -2,10 +2,10 @@
 
 ### About me
 
-- I love sharing knowledge, exploring various topics and deep dive into things.
-- Building web and TUI applications is my passion.
-- Currently, I'm diving into backend engineering.
-- Solving algorithmic problems is another interest of mine.
+- I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
+- I build both web apps and TUI (terminal) apps.
+- Right now, I’m focused on backend engineering.
+- I also like solving algorithmic problems and sharpening my problem‑solving skills.
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
