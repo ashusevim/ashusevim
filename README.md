@@ -9,46 +9,6 @@
 - Right now, I’m focused on backend engineering.
 - I also like solving algorithmic problems and sharpening my problem‑solving skills.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,ts,react,nodejs,express,postgres,mongodb,mysql,nextjs,postman,vscode,c,cpp,linux,git,docker,github,appwrite,supabase)](https://skillicons.dev)
-
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.41 % 
-TypeScript               1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   31.48 % 
-JavaScript               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 45 mins       ███████████████████████░░   92.24 % 
-Zed                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🐱‍💻 Projects: 
-ashusevim                1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Notes                    1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Ecommerce-web-master (Cop1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-magic-portfolio          1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-LMS                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-
-💻 Operating System: 
-Linux                    6 hrs 14 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/11/2025 01:50:41 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
-<tr><td>
-
 ### 📊 WakaTime
 
 <picture>
