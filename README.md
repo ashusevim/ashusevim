@@ -2,12 +2,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/018d7861-65e4-43a2-9694-be710f9a2011.svg)](https://wakatime.com/@018d7861-65e4-43a2-9694-be710f9a2011)
 
-### About me
+### About me(I USE ARCH BTW!!)
 
+- Currently learning DB schema & Migrations
 - I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
 - I build both web apps and TUI (terminal) apps.
 - Right now, I’m focused on backend engineering.
-- I also like solving algorithmic problems and sharpening my problem‑solving skills.
+- I also like solving algorithmic problems
 
 <details>
 <summary><b>Life Mantra</b></summary>
@@ -34,7 +35,7 @@ Talk to people with respect. Don’t hate. Be loving. Be real. Become yourself.
 Cherrypick your qualities. Discard the useless. Rejections aren’t permanent.
 Invite what aligns. Accept what does not. Read great people.
 Be different. Choose different. Do great work. Let it consume you.
-Lose your mind. Value your time. Experience life.
+Lose your mind. Value your time. Experience life. personal advice: Ditch your fu**king windows and use Linux
 
 </quote>
 </details>
