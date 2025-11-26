@@ -4,11 +4,12 @@
 
 ### About me(I USE ARCH BTW!!)
 
-- Currently learning DB schema & Migrations
+- Currently deep diving into DB schema & Migrations
 - I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
 - I build both web apps and TUI (terminal) apps.
 - Right now, I’m focused on backend engineering.
 - I also like solving algorithmic problems
+- [Monkeytype](https://monkeytype.com/profile/ashusevim)
 
 <details>
 <summary><b>Life Mantra</b></summary>
