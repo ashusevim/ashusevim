@@ -4,9 +4,9 @@
 
 ### About me(I USE ARCH BTW!!)
 
-- Currently deep diving into DB schema & Migrations
+- Currently deep diving into **caching (redis, cdn)**
 - I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
-- I build both web apps and TUI (terminal) apps.
+- I build for **web and TUI (terminal)**.
 - Right now, I’m focused on backend engineering.
 - I also like solving algorithmic problems
 - [Monkeytype](https://monkeytype.com/profile/ashusevim)
