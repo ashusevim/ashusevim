@@ -15,10 +15,10 @@
 <summary><b>Life Mantra</b></summary>
 <br>
 <quote>
-Disappear. Do math. Learn to code. Build things. Comeback stronger. Quit brainrot. Have self control. Unfollow trolls. Unfollow trends. Read essays. Go down rabbit holes.
+Disappear. Do math. Learn to code. Build things. Comeback stronger. Quit brainrot. Have self control. Unfollow trolls. Unfollow trends. Read essays. Go down rabbit holes. 
 Have a calendar. Maintain a todo list. Read old books. Watch old movies.
 Turn on DND. Walk with intent. Eat without YouTube. Chew more.
-Train without music. Plan for 15 minutes. Execute. Organise your desk.
+Train without music. Connect with your higher self. Plan for 15 minutes. Execute. Organise your desk.
 Take something seriously. Read ancient scripts. Act fast. Find bread.
 Eat clean. Journal. Save a life. Learn to code. Read poetry. Create art.
 Stay composed. Refine your speech. Optimise for efficiency. Act sincere.
