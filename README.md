@@ -4,7 +4,7 @@
 
 ### About me(I USE ARCH BTW!!)
 
-- Currently deep diving into **caching (redis, cdn)**
+- Currently deep diving into **Background Jobs and queues**
 - I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
 - I build for **web and TUI (terminal)**.
 - Right now, I’m focused on backend engineering.
