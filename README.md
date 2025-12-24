@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3D&lines=cout+%3C%3C+%22Hey+everyone%F0%9F%91%8B%22;)](https://git.io/typing-svg)
-
 [![wakatime](https://wakatime.com/badge/user/018d7861-65e4-43a2-9694-be710f9a2011.svg)](https://wakatime.com/@018d7861-65e4-43a2-9694-be710f9a2011)
 
 ### About me(I USE ARCH BTW!!)
