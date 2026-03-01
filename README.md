@@ -1,4 +1,4 @@
-## About me (I use arch linux BTW)
+## About me (I use arch BTW)
 
 - I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
 - Currently learning GO and working on this project -> [https://github.com/ashusevim/FocusHub]
