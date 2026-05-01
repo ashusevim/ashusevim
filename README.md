@@ -6,7 +6,6 @@
 - Hackerrank -> 5 stars in C++
 - [Monkeytype](https://monkeytype.com/profile/ashusevim) -> 102 WPM max, 60 sec | 131 WPM max overall
 
-
 ### Projects I built
 
 - [sha-512-Implementation-in-c](https://github.com/ashusevim/sha-512-Implementation-in-c) -> SHA-512 hash function implementation in C, providing a secure way to generate fixed-size hash values from input data.
@@ -18,7 +17,7 @@
 - [url-shortening-service](https://github.com/ashusevim/url-shortening-service) -> URL shortening service built with Node.js, Express, and MongoDB.
 - [video streaming(kinda simliar to YT) backend](https://github.com/ashusevim/learning-backend-dev/tree/main/Backend) -> video-sharing and social media platform backend built with Node.js, Express, and MongoDB.
 - [tic-tac-toe](https://github.com/ashusevim/tic-tac-toe) -> A Tic-Tac-Toe game built using React.js, TypeScript
-- [HTTPal](https://github.com/ashusevim/HTTPal) -> HTTP CLI client for making requests and inspecting responses 
+- [HTTPal](https://github.com/ashusevim/HTTPal) -> HTTP CLI client for making requests and inspecting responses
 - [pubhub](https://github.com/ashusevim/pubhub) -> platform designed to help developers and founders build and grow in public. (Hackathon project)
 - [Markdown-Processor](https://github.com/ashusevim/Markdown-Processor) -> CLI tool that converts a Markdown file to HTML and writes the result to stdout.
 - [as-vim](https://github.com/ashusevim/as-vim) -> (TTE) terminal text editor (Vim‑inspired) written in TypeScript / Node.js
@@ -42,3 +41,5 @@
 - [password-generator-react](https://github.com/ashusevim/password-generator-react) -> A React-based password generator with customizable options
 - [changelog-component](https://github.com/ashusevim/changelog-component) -> A React component that generates a changelog from commit messages, making it easy to keep track of changes in your projects.
 - [datepicker-ui](https://github.com/ashusevim/datepicker-ui) -> simple datepicker UI using only HTML and CSS
+- [geoDNS-node](https://github.com/ashusevim/geoDNS-node) -> A simple DNS server based on user's geo-graphy which is known as geoDNS ()
+
