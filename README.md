@@ -1,7 +1,7 @@
 ## About me (I use arch BTW)
 
+- Currently learning Python and flask
 - I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
-- Currently learning GO and working on this project -> [https://github.com/ashusevim/FocusHub]
 - I enjoy solving algorithmic problems — solved **1000+** questions across platforms like LeetCode, GeeksforGeeks, Codeforces, CodeChef, HackerRank, and AtCoder.
 - Hackerrank -> 5 stars in C++
 - [Monkeytype](https://monkeytype.com/profile/ashusevim) -> 102 WPM max, 60 sec | 131 WPM max overall
