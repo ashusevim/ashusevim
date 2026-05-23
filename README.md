@@ -39,7 +39,4 @@
 - [nextauth-google](https://github.com/ashusevim/nextauth-google) -> oAuth authentication with Google in a Next.js application using NextAuth.js
 - [nextauth-github](https://github.com/ashusevim/nextauth-github) -> oAuth authentication with GitHub in a Next.js application using NextAuth.js
 - [password-generator-react](https://github.com/ashusevim/password-generator-react) -> A React-based password generator with customizable options
-- [changelog-component](https://github.com/ashusevim/changelog-component) -> A React component that generates a changelog from commit messages, making it easy to keep track of changes in your projects.
-- [datepicker-ui](https://github.com/ashusevim/datepicker-ui) -> simple datepicker UI using only HTML and CSS
-- [geoDNS-node](https://github.com/ashusevim/geoDNS-node) -> A simple DNS server based on user's geo-graphy which is known as geoDNS ()
-
+- [geoDNS-node](https://github.com/ashusevim/geoDNS-node) -> A simple DNS server based on user's geo-graphy which is known as geoDNS
