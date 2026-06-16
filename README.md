@@ -1,6 +1,6 @@
 ## About me (I use arch BTW)
 
-- Currently learning Python and flask
+- Currently learning low level and system programming 
 - I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
 - I enjoy solving algorithmic problems — solved **1000+** questions across platforms like LeetCode, GeeksforGeeks, Codeforces, CodeChef, HackerRank, and AtCoder.
 - Hackerrank -> 5 stars in C++
