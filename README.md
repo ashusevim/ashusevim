@@ -1,6 +1,6 @@
 ## About me (I use arch BTW)
 
-- Currently learning low level and system programming 
+- Currently exploring low level programming, systems programming, and OS internals 
 - I enjoy sharing what I learn, exploring new ideas, and diving deep into stuff that interest me.
 - I enjoy solving algorithmic problems — solved **1000+** questions across platforms like LeetCode, GeeksforGeeks, Codeforces, CodeChef, HackerRank, and AtCoder.
 - Hackerrank -> 5 stars in C++
@@ -8,35 +8,35 @@
 
 ### Projects I built
 
-- [sha-512-Implementation-in-c](https://github.com/ashusevim/sha-512-Implementation-in-c) -> SHA-512 hash function implementation in C, providing a secure way to generate fixed-size hash values from input data.
-- [video-player-c](https://github.com/ashusevim/video-player-c) -> A simple video player built in C (under 1000 lines) using the FFmpeg library, capable of playing various video formats and providing basic playback controls.
-- [git-from-scratch-js](https://github.com/ashusevim/git-from-scratch-js) -> implementation of Git's core functionalities, including commit, branch, merge, and more, built from scratch to demonstrate how Git works under the hood.
-- [FocusHub (still working on it)](https://github.com/ashusevim/FocusHub) -> Kanban productivity board using React, TypeScript, and Node.js
-- [HTTP-GO](https://github.com/ashusevim/HTTP-GO) -> HTTP server implementation from stretch in Go
-- [commit-conventional (NPM package)](https://github.com/ashusevim/commit-conventional) -> tool for authoring Git commits that follow the Conventional Commits specification.
-- [url-shortening-service](https://github.com/ashusevim/url-shortening-service) -> URL shortening service built with Node.js, Express, and MongoDB.
-- [video streaming(kinda simliar to YT) backend](https://github.com/ashusevim/learning-backend-dev/tree/main/Backend) -> video-sharing and social media platform backend built with Node.js, Express, and MongoDB.
-- [tic-tac-toe](https://github.com/ashusevim/tic-tac-toe) -> A Tic-Tac-Toe game built using React.js, TypeScript
-- [HTTPal](https://github.com/ashusevim/HTTPal) -> HTTP CLI client for making requests and inspecting responses
-- [pubhub](https://github.com/ashusevim/pubhub) -> platform designed to help developers and founders build and grow in public. (Hackathon project)
-- [Markdown-Processor](https://github.com/ashusevim/Markdown-Processor) -> CLI tool that converts a Markdown file to HTML and writes the result to stdout.
-- [as-vim](https://github.com/ashusevim/as-vim) -> (TTE) terminal text editor (Vim‑inspired) written in TypeScript / Node.js
-- [facebook-clone](https://github.com/ashusevim/facebook-clone) -> full-stack social media application inspired by Facebook's UI, built with React, Node.js, Express, and PostgreSQL.
-- [social-media-content-analyzer](https://github.com/ashusevim/social-media-content-analyzer) -> VIBE CODED a tool that ingests PDF decks or scanned screenshots, extracts the underlying copy with OCR, and returns engagement-ready insights.
-- [caching-products-feed-redis](https://github.com/ashusevim/caching-products-feed-redis) -> Redis implementation for rate limiting and serves products feed.
-- [article-summarizer](https://github.com/ashusevim/article-summarizer) -> An AI-powered article summarizer built with Next.js that extracts and summarizes content from article links and PDFs providing summaries in markdown format.
-- [MegaBlog](https://github.com/ashusevim/MegaBlog) -> SPA blog application using React.js and Appwrite with secure user authentication and JWT-based authorization.
-- [Unix-Utilities in GO](https://github.com/ashusevim/Unix-Utilities) -> basic Unix command-line utilities implemented in Go
-- [auth-mini-express](https://github.com/ashusevim/auth-mini-express) -> minimal Express.js authentication implementation with JWT and bcrypt.
-- [blog-prisma-db](https://github.com/ashusevim/blog-prisma-db) -> API backend for a blog platform built with Express.js, TypeScript, and Prisma ORM with PostgreSQL
-- [x-scrapper](https://github.com/ashusevim/x-scrapper) -> Scrape a single public X/Twitter post into clean Markdown
-- [Spell-checker](https://github.com/ashusevim/Spell-checker) -> A CLI spell checker built with TypeScript that analyzes text files and provides spelling suggestions using the Typo.js library.
-- [email-digest-worker](https://github.com/ashusevim/email-digest-worker) -> typescript based worker application for processing email digests using BullMQ and Redis
-- [Real-time chat application](https://github.com/ashusevim/websocket) -> A real-time chat system with JWT-secured WebSocket sessions, rate limiting, and sanitized messaging using Express
-- [cph-zed](https://github.com/ashusevim/cph-zed) -> VIBE CODED a Competitive Programming Helper for Zed - seamlessly receive problems from competitive-companion and generate solution templates with test cases.
-- [yt-vd](https://github.com/ashusevim/yt-vd) -> VIBE CODED a CLI tool to download YouTube videos at a chosen resolution using yt‑dlp
-- [nextjsmusic](https://github.com/ashusevim/nextjsmusic) -> Music Academy website built with Nextjs, Typescript, and acternity UI
-- [nextauth-google](https://github.com/ashusevim/nextauth-google) -> oAuth authentication with Google in a Next.js application using NextAuth.js
-- [nextauth-github](https://github.com/ashusevim/nextauth-github) -> oAuth authentication with GitHub in a Next.js application using NextAuth.js
-- [password-generator-react](https://github.com/ashusevim/password-generator-react) -> A React-based password generator with customizable options
-- [geoDNS-node](https://github.com/ashusevim/geoDNS-node) -> A simple DNS server based on user's geo-graphy which is known as geoDNS
+- [sha-512-Implementation-in-c](https://github.com/ashusevim/sha-512-Implementation-in-c) -> SHA-512 hash implementation in C with fixed-size digest generation.
+- [video-player-c](https://github.com/ashusevim/video-player-c) -> Minimal C video player using FFmpeg for decoding and playback.
+- [git-from-scratch-js](https://github.com/ashusevim/git-from-scratch-js) -> Git internals in JS: commits, branches, merges, and object storage.
+- [FocusHub (still working on it)](https://github.com/ashusevim/FocusHub) -> Kanban productivity board built with React, TypeScript, and Node.js.
+- [HTTP-GO](https://github.com/ashusevim/HTTP-GO) -> HTTP server in Go with request parsing and response handling.
+- [commit-conventional (NPM package)](https://github.com/ashusevim/commit-conventional) -> CLI for writing Conventional Commits with guided prompts.
+- [url-shortening-service](https://github.com/ashusevim/url-shortening-service) -> URL shortener backend using Express, MongoDB, and redirect handling.
+- [video streaming backend](https://github.com/ashusevim/learning-backend-dev/tree/main/Backend) -> YouTube-like backend with auth, uploads, and video APIs.
+- [tic-tac-toe](https://github.com/ashusevim/tic-tac-toe) -> React + TypeScript Tic-Tac-Toe with game state management.
+- [HTTPal](https://github.com/ashusevim/HTTPal) -> HTTP CLI client for sending requests and inspecting responses.
+- [pubhub](https://github.com/ashusevim/pubhub) -> Build-in-public platform with project sharing and discovery. Hackathon project.
+- [Markdown-Processor](https://github.com/ashusevim/Markdown-Processor) -> Markdown-to-HTML CLI that parses files and writes HTML to stdout.
+- [as-vim](https://github.com/ashusevim/as-vim) -> Vim-inspired terminal text editor in TypeScript/Node.js with modal editing.
+- [facebook-clone](https://github.com/ashusevim/facebook-clone) -> Full-stack social app with React, Express, PostgreSQL, and auth flows.
+- [social-media-content-analyzer](https://github.com/ashusevim/social-media-content-analyzer) -> OCR-based analyzer for PDFs/screenshots with engagement insights.
+- [caching-products-feed-redis](https://github.com/ashusevim/caching-products-feed-redis) -> Product feed API using Redis caching and rate limiting.
+- [article-summarizer](https://github.com/ashusevim/article-summarizer) -> Next.js AI summarizer for article links and PDFs with Markdown output.
+- [MegaBlog](https://github.com/ashusevim/MegaBlog) -> React/Appwrite blog SPA with authentication and protected routes.
+- [Unix-Utilities in GO](https://github.com/ashusevim/Unix-Utilities) -> Unix command-line utilities implemented in Go.
+- [auth-mini-express](https://github.com/ashusevim/auth-mini-express) -> Minimal Express auth with JWT, bcrypt, and protected routes.
+- [blog-prisma-db](https://github.com/ashusevim/blog-prisma-db) -> Blog API using Express, TypeScript, Prisma, and PostgreSQL.
+- [x-scrapper](https://github.com/ashusevim/x-scrapper) -> Public X/Twitter post scraper that outputs clean Markdown.
+- [Spell-checker](https://github.com/ashusevim/Spell-checker) -> TypeScript CLI spell checker using Typo.js suggestions.
+- [email-digest-worker](https://github.com/ashusevim/email-digest-worker) -> BullMQ + Redis worker for processing email digests.
+- [Real-time chat application](https://github.com/ashusevim/websocket) -> WebSocket chat with JWT sessions, rate limiting, and sanitized messages.
+- [cph-zed](https://github.com/ashusevim/cph-zed) -> Zed CP helper with Competitive Companion integration and test templates.
+- [yt-vd](https://github.com/ashusevim/yt-vd) -> YouTube downloader CLI using yt-dlp with resolution selection.
+- [nextjsmusic](https://github.com/ashusevim/nextjsmusic) -> Music Academy site built with Next.js, TypeScript, and Aceternity UI.
+- [nextauth-google](https://github.com/ashusevim/nextauth-google) -> Google OAuth flow in Next.js using NextAuth.js.
+- [nextauth-github](https://github.com/ashusevim/nextauth-github) -> GitHub OAuth flow in Next.js using NextAuth.js.
+- [password-generator-react](https://github.com/ashusevim/password-generator-react) -> React password generator with configurable password rules.
+- [geoDNS-node](https://github.com/ashusevim/geoDNS-node) -> GeoDNS server in Node.js with geography-based routing.
