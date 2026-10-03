@@ -9,14 +9,14 @@
 
 ### Shipped (live / real users)
 
-- **[Datumly](https://github.com/ashusevim/datumly)** · [Live](https://datumly.ashusevim.dev/) | Full-stack SaaS for generating synthetic datasets with usage-metered APIs and real-time Pro billing
-- **[commit-conventional](https://github.com/ashusevim/commit-conventional)** · [NPM](https://www.npmjs.com/package/commit-conventional) | CLI for creating Conventional Commits through guided prompts — **400+ downloads**
-- **[httpal](https://github.com/ashusevim/httpal)** · [NPM](https://www.npmjs.com/package/@ashusevim/httpal) | Lightweight HTTP CLI client for sending requests and inspecting responses directly from the terminal
-- **[Markdown-Processor](https://github.com/ashusevim/Markdown-Processor)** · [NPM](https://www.npmjs.com/package/@ashusevim/markdown-processor) | Markdown-to-HTML CLI that parses files and writes HTML to stdout
-- **[websocket](https://github.com/ashusevim/websocket)** · [Live](https://chat.ashusevim.dev/) | Real-time WebSocket chat featuring JWT authentication, rate limiting, and message sanitization
-- **[magic-portfolio](https://github.com/ashusevim/magic-portfolio)** · [Live](https://ashusevim.dev/) | Personal developer portfolio built with Next.js, shadcn/ui, and Magic UI
-- **[fab-UI](https://github.com/ashusevim/fab-UI)** · [Live](https://ui.ashusevim.dev/) | Accessible React 19 component library with a token-driven design system
-- **[cricbid](https://github.com/ashusevim/cricbid)** · [Live](https://cricbid.ashusevim.dev/) | Cricket bidding platform where fans can bid on their favorite players
+- **[Datumly](https://github.com/ashusevim/datumly)** · **[Live](https://datumly.ashusevim.dev/)** | Full-stack SaaS for generating synthetic datasets with usage-metered APIs and real-time Pro billing
+- **[commit-conventional](https://github.com/ashusevim/commit-conventional)** · **[NPM](https://www.npmjs.com/package/commit-conventional)** | CLI for creating Conventional Commits through guided prompts — **400+ downloads**
+- **[httpal](https://github.com/ashusevim/httpal)** · **[NPM](https://www.npmjs.com/package/@ashusevim/httpal)** | Lightweight HTTP CLI client for sending requests and inspecting responses directly from the terminal
+- **[Markdown-Processor](https://github.com/ashusevim/Markdown-Processor)** · **[NPM](https://www.npmjs.com/package/@ashusevim/markdown-processor)** | Markdown-to-HTML CLI that parses files and writes HTML to stdout
+- **[websocket](https://github.com/ashusevim/websocket)** · **[Live](https://chat.ashusevim.dev/)** | Real-time WebSocket chat featuring JWT authentication, rate limiting, and message sanitization
+- **[magic-portfolio](https://github.com/ashusevim/magic-portfolio)** · **[Live](https://ashusevim.dev/)** | Personal developer portfolio built with Next.js, shadcn/ui, and Magic UI
+- **[fab-UI](https://github.com/ashusevim/fab-UI)** · **[Live](https://ui.ashusevim.dev/)** | Accessible React 19 component library with a token-driven design system
+- **[cricbid](https://github.com/ashusevim/cricbid)** · **[Live](https://cricbid.ashusevim.dev/)** | Cricket bidding platform where fans can bid on their favorite players
 
 ### Systems / low level
 
