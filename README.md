@@ -7,7 +7,7 @@
 - Hackerrank -> 5 stars in C++
 - **[Monkeytype](https://monkeytype.com/profile/ashusevim)** -> 102 WPM max, 60 sec | 131 WPM max overall
 
-### Shipped (live / real users)
+### Shipped (live)
 
 - **[Datumly](https://github.com/ashusevim/datumly)** · **[Live](https://datumly.ashusevim.dev/)** | Full-stack SaaS for generating synthetic datasets with usage-metered APIs and real-time Pro billing
 - **[commit-conventional](https://github.com/ashusevim/commit-conventional)** · **[NPM](https://www.npmjs.com/package/commit-conventional)** | CLI for creating Conventional Commits through guided prompts — **400+ downloads**
@@ -17,6 +17,7 @@
 - **[magic-portfolio](https://github.com/ashusevim/magic-portfolio)** · **[Live](https://ashusevim.dev/)** | Personal developer portfolio built with Next.js, shadcn/ui, and Magic UI
 - **[fab-UI](https://github.com/ashusevim/fab-UI)** · **[Live](https://ui.ashusevim.dev/)** | Accessible React 19 component library with a token-driven design system
 - **[cricbid](https://github.com/ashusevim/cricbid)** · **[Live](https://cricbid.ashusevim.dev/)** | Cricket bidding platform where fans can bid on their favorite players
+- **[as-vim](https://github.com/ashusevim/as-vim)** · **[Package](https://crates.io/crates/as-vim)** -> Vim-inspired terminal text editor in TypeScript/Node.js with modal editing
 
 ### Systems / low level
 
@@ -55,7 +56,6 @@
 
 ### CLIs / tools
 
-- **[as-vim](https://github.com/ashusevim/as-vim)** -> Vim-inspired terminal text editor in TypeScript/Node.js with modal editing
 - **[Spell-checker](https://github.com/ashusevim/Spell-checker)** -> TypeScript CLI spell checker using Typo.js suggestions
 - **[cph-zed](https://github.com/ashusevim/cph-zed)** -> Zed CP helper with Competitive Companion integration and test templates
 - **[yt-vd](https://github.com/ashusevim/yt-vd)** -> YouTube downloader CLI using yt-dlp with resolution selection
