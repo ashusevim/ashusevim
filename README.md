@@ -1,4 +1,4 @@
-## ssh archlinuxAbout me (I use arch BTW)
+## About me (I use arch BTW)
 
 - Ex-Software Development Engineer Intern @ Intellect Design Arena — built backend services for a Visitor Management System with Java 21 + Spring Boot 3 and worked with Angular for UI enhancements (35+ commits, cut report download times by 30%)
 - Currently building **[fab-UI](https://ui.ashusevim.dev/)** and exploring low level programming, and cyber security
@@ -8,13 +8,13 @@
 
 
 
-### Shipped (live)
+### Shipped (Live)
 
 - **[Datumly](https://github.com/ashusevim/datumly)** · **[Live](https://datumly.ashusevim.dev/)** | Full-stack SaaS for generating synthetic datasets with usage-metered APIs and real-time Pro billing
 - **[commit-conventional](https://github.com/ashusevim/commit-conventional)** · **[NPM](https://www.npmjs.com/package/commit-conventional)** | CLI for creating Conventional Commits through guided prompts — **400+ downloads**
 - **[httpal](https://github.com/ashusevim/httpal)** · **[NPM](https://www.npmjs.com/package/@ashusevim/httpal)** | Lightweight HTTP CLI client directly into your terminal - **1200+ downloads**
 - **[Markdown-Processor](https://github.com/ashusevim/Markdown-Processor)** · **[NPM](https://www.npmjs.com/package/@ashusevim/markdown-processor)** | Markdown-to-HTML CLI that parses files and writes HTML to stdout
-- **[Spell-checker](https://github.com/ashusevim/Spell-checker)** · **[NPM](https://www.npmjs.com/package/spellguard)** -> TypeScript CLI spell checker using Typo.js suggestions
+- **[spellguard](https://github.com/ashusevim/spellguard)** · **[NPM](https://www.npmjs.com/package/spellguard)** -> TypeScript CLI spell checker using Typo.js suggestions
 - **[websocket](https://github.com/ashusevim/websocket)** · **[Live](https://chat.ashusevim.dev/)** | Real-time WebSocket chat featuring JWT authentication, rate limiting, and message sanitization
 - **[fab-UI](https://github.com/ashusevim/fab-UI)** · **[Live](https://ui.ashusevim.dev/)** | Accessible React 19 component library with a token-driven design system
 - **[cricbid](https://github.com/ashusevim/cricbid)** · **[Live](https://cricbid.ashusevim.dev/)** | Cricket bidding platform where fans can bid on their favorite players
